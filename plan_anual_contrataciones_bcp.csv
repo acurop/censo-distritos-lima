@@ -1,4 +1,4 @@
-;tipo_proc;obj_cont;descripcion;cod;monto;tipo_moneda;fuente_finan;fech_prev_conv;org_encar_contrat;observ
+num_ref;tipo_proc;obj_cont;descripcion;cod;monto;tipo_moneda;fuente_finan;fech_prev_conv;org_encar_contrat;observ
 1;AS;Bienes;Adquisición de polos para los trabajadores que laboran los días sábados  en la Red de Agencias  a nivel nacional - BN 2019;99;110,400;Soles;Recursos Propios;Setiembre;Logistica;
 2;LP;Bienes;Adquisición del  uniforme Institucional para los trabajadores del  Banco de la Nación 2019;99;4,080,000;Soles;Recursos Propios;Junio;Logistica;
 3;LP;Bienes;Adquisición de  calzados de damas y caballeros del uniforme  para el personal  del  Banco de la  Nación  a nivel nacional  2019;99;845,000;Soles;Recursos Propios;Junio;Logistica;
