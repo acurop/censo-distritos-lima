@@ -1,0 +1,153 @@
+;tipo_proc;obj_cont;descripcion;cod;monto;tipo_moneda;fuente_finan;fech_prev_conv;org_encar_contrat;observ
+1;AS;Bienes;Adquisición de polos para los trabajadores que laboran los días sábados  en la Red de Agencias  a nivel nacional - BN 2019;99;110,400;Soles;Recursos Propios;Setiembre;Logistica;
+2;LP;Bienes;Adquisición del  uniforme Institucional para los trabajadores del  Banco de la Nación 2019;99;4,080,000;Soles;Recursos Propios;Junio;Logistica;
+3;LP;Bienes;Adquisición de  calzados de damas y caballeros del uniforme  para el personal  del  Banco de la  Nación  a nivel nacional  2019;99;845,000;Soles;Recursos Propios;Junio;Logistica;
+4;AS;Servicios;Servicio de evaluación de Riesgos Psicosociales;99;85,000;Soles;Recursos Propios;Marzo;Logistica;
+5;CP;Servicios;Servicio de mantenimiento  del Sistema de Gestión  de Seguridad y Salud en  el  Trabajo del BN.;99;1,100,000;Soles;Recursos Propios;Marzo;Logistica;
+6;AS;Servicios;Exámenes médicos ocupacionales en la Macro Región I Piura año 2019 -2021;99;110,000;Soles;Recursos Propios;Marzo;Logistica;
+7;AS;Servicios;Exámenes médicos ocupacionales en la Macro Región II Trujillo año 2019 -2021;99;63,000;Soles;Recursos Propios;Abril;Logistica;
+8;AS;Servicios;Exámenes médicos ocupacionales en la Macro Región III Huancayo año 2019 -2021;99;48,000;Soles;Recursos Propios;Junio;Logistica;
+9;AS;Servicios;Exámenes médicos ocupacionales en la Macro Región IV Cusco año 2019 -2021;99;73,000;Soles;Recursos Propios;Junio;Logistica;
+10;AS;Servicios;Exámenes médicos ocupacionales en la Macro Región V Arequipa año 2019 -2021;99;86,000;Soles;Recursos Propios;Abril;Logistica;
+11;AS;Servicios;Servicio  de  refrigerios en  actividades de capacitación correspondiente  al  2019-2021;99;310,500;Soles;Recursos Propios;Abril;Logistica;
+12;AS;Servicios;Contratación del servicio de asesoría legal para absolver consultas en materia de Derecho Bancario, Corporativo, de Seguros y brindar apoyo en la atención de requerimientos de información solicitados por los entes reguladores o supervisores (Indecopi, Fiscalía, SBS, entre otros);99;79,000;Soles;Recursos Propios;Junio;Logistica;
+13;CP;Servicios;Servicio de patrocinio procesal en Derecho Laboral en Lima y Callao;99;1,126,000;Soles;Recursos Propios;Marzo;Logistica;
+14;AS;Servicios;Contratación de asesoría legal especializada en materias de Derecho Laboral y Previsional;99;252,000;Soles;Recursos Propios;Marzo;Logistica;
+15;AS;Servicios;Estudio de calidad de servicios al cliente de los canales del Banco de la Nación y medición de tiempos de espera en colas 2019;99;162,000;Soles;Recursos Propios;Julio;Logistica;
+16;AS;Bienes;Adquisición de software basado en plataforma web para administración y reportes de directorio activo;99;40,000;Soles;Recursos Propios;Mayo;Logistica;
+17;AS;Bienes;Adquisición de software basado en plataforma web para auditoria de directorio activo, Ms Exchange y Servidores Windows;99;160,000;Soles;Recursos Propios;Marzo;Logistica;
+18;CP;Servicios;Servicio de comunicación satelital para dependencias del Banco de la Nación;99;50,000,000;Soles;Recursos Propios;Mayo;Logistica;
+19;CP;Servicios;Servicio de comunicación mediante fibra óptica sedes principales BN;99;4,132,400;Soles;Recursos Propios;Mayo;Logistica;
+20;AS;Bienes;Tarjetas multiflota 10,000 mas fundas ;99;35,000;Soles;Recursos Propios;Abril;Logistica;
+21;AS;Bienes;Adquisición de tarjetas de limpieza para las lectoras de ATM's;99;75,000;Soles;Recursos Propios;Agosto;Logistica;
+22;LP;Bienes;Adquisición de rollos para cajeros;99;442,000;Soles;Recursos Propios;Junio;Logistica;Items: 3
+23;LP;Bienes;Adquisición de cajeros automáticos y SVGD;99;24,451,000;Soles;Recursos Propios;Marzo;Logistica;
+24;LP;Bienes;Adquisición de 280 máquinas contadoras electrónicas de billetes que cuenten, detecten, separen billetes falsos, por el estado de su uso,  capturen y almacenen las series en su memoria interna y los muestren en su pantalla, para la Red de Agencias.;99;3,612,000;Soles;Recursos Propios;Marzo;Logistica;
+25;CP;Servicios;Mantenimiento Preventivo y Correctivo a 500 Máquinas Contadoras Electrónicas de Billetes  marcas MAGNER modelo 100, 150 y CDM modelo SB-7 en uso en la Red de Agencias, a nivel nacional.;99;1,150,000;Soles;Recursos Propios;Marzo;Logistica;
+28;AS;Servicios;Servicio de alquiler de inmueble para el funcionamiento de la Agencia 3 Chilca - MR Lima;99;146,880;Soles;Recursos Propios;Marzo;Logistica;
+29;AS;Servicios;Servicio de alquiler de inmueble para el funcionamiento de la Agencia 3 Mala - MR Lima;99;193,018;Soles;Recursos Propios;Marzo;Logistica;
+30;CP;Servicios;Servicio de alquiler de inmueble para el funcionamiento de la Agencia 2 Gamarra  - MR Lima;99;1,257,379;Soles;Recursos Propios;Marzo;Logistica;
+31;CP;Servicios;Servicio de alquiler de inmueble para el funcionamiento de la Oficina Especial 1 México - MR Lima;99;529,487;Soles;Recursos Propios;Abril;Logistica;
+32;CP;Servicios;Servicio de alquiler de inmueble para el funcionamiento de la Oficina Especial 1 Mega Plaza - MR Lima;99;1,461,686;Soles;Recursos Propios;Junio;Logistica;
+33;CP;Servicios;Servicio de alquiler de inmueble para el funcionamiento de la Agencia 2 Jockey Plaza - MR Lima;99;2,050,764;Soles;Recursos Propios;Agosto;Logistica;
+34;AS;Bienes;Adquisición de 905  lámparas detectoras de billetes falsos  -  Agencias MR Lima del Banco de la Nación;99;133,940;Soles;Recursos Propios;Mayo;Logistica;
+35;AS;Bienes;Adquisición de 640 ordenadores de cola -  Agencias MR Lima del Banco de la Nación;99;128,000;Soles;Recursos Propios;Mayo;Logistica;
+36;CP;Servicios;Servicio de limpieza en las agencias de los departamentos de Cajamarca, Amazonas y Loreto;99;4,470,432;Soles;Recursos Propios;Marzo;Logistica;Items: 3
+37;CP;Servicios;Servicio de arrendamiento local Agencia 1 Piura;99;573,692;Soles;Recursos Propios;Julio;Logistica;
+38;AS;Servicios;Servicio de arrendamiento local Agencia 3 Las Lomas;99;82,800;Soles;Recursos Propios;Setiembre;Logistica;
+39;AS;Servicios;Servicio de arrendamiento local agencia 3 Máncora;99;64,800;Soles;Recursos Propios;Agosto;Logistica;
+40;AS;Servicios;Servicio de arrendamiento vivienda para administrador Agencia 3 Lonya Grande;99;43,200;Soles;Recursos Propios;Octubre;Logistica;
+41;AS;Servicios;Servicio de arrendamiento vivienda para administrador Agencia 3 Mancora;99;41,040;Soles;Recursos Propios;Setiembre;Logistica;
+43;AS;Servicios;Servicio de arrendamiento de un inmueble para el funcionamiento de la Agencia 3 Contumaza;99;90,000;Soles;Recursos Propios;Marzo;Logistica;
+44;AS;Servicios;Servicio de arrendamiento de un inmueble para el funcionamiento de la Agencia 3 José Leonardo Ortíz;99;144,000;Soles;Recursos Propios;Junio;Logistica;
+45;AS;Servicios;Servicio de arrendamiento de un inmueble para el funcionamiento de la Agencia 2 La Victoria;99;144,000;Soles;Recursos Propios;Marzo;Logistica;
+47;AS;Servicios;Servicio de arrendamiento de un inmueble para el funcionamiento de la Agencia 3 Pomabamba;99;169,200;Soles;Recursos Propios;Marzo;Logistica;
+51;CP;Servicios;Servicio de limpieza para las oficinas de los departamentos de Huánuco, Pasco, San Martin, Junin, Huancavelica y Ancash de la Macro Región III Huancayo de la Gerencia de Banca de Servicio del Banco de la Nación;99;6,948,000;Soles;Recursos Propios;Marzo;Logistica;Items: 5
+52;AS;Servicios;Alquiler local agencia 3 Curahuasi;99;54,000;Soles;Recursos Propios;Marzo;Logistica;
+53;AS;Servicios;Alquiler local agencia 3 Huancane;99;54,000;Soles;Recursos Propios;Marzo;Logistica;
+55;CP;Servicios;Servicio de limpieza para los departamentos de Ayacucho, Apurímac, Cusco, Puno y Madre de Dios de la DMR IV Cusco;99;7,213,154;Soles;Recursos Propios;Marzo;Logistica;Items: 5
+56;AS;Servicios;Alquiler Agencia 3 Cocachacra;99;100,728;Soles;Recursos Propios;Mayo;Logistica;
+57;AS;Servicios;Alquiler Agencia 3 El Pedregal;99;198,000;Soles;Recursos Propios;Marzo;Logistica;
+59;AS;Servicios;Alquiler Agencia 3 Torata;99;75,600;Soles;Recursos Propios;Mayo;Logistica;
+60;CP;Servicios;Servicio de Limpieza departamentos de Arequipa, Moquegua, Tacna y Huancavelica;99;4,383,393;Soles;Recursos Propios;Marzo;Logistica;Items: 4
+61;AS;Servicios;Servicio de Arrendamiento de un Inmueble (espacio) para el  funcionamiento de un (01) cajero automático Multired en distrito de Bellavista, provincia Callao y departamento Lima;99;115,206;Soles;Recursos Propios;Abril;Logistica;
+62;CP;Servicios; Mantenimiento Preventivo de Grupos Electrógenos y Tableros de Transferencia de la Macro Región Lima del Banco de la Nación;99;2,360,000;Soles;Recursos Propios;Abril;Logistica;
+63;AS;Servicios;Suministro e instalación del sistema de ventilación y extracción de aire para el Archivo Central de la Sede Elizalde;99;250,000;Soles;Recursos Propios;Abril;Logistica;
+64;CP;Servicios;Servicio de suministro e instalación de coberturas Termo Acústica Trapezoidal de los ambientes de la Sede Elizalde;99;3,214,320;Soles;Recursos Propios;Marzo;Logistica;
+65;AS;Servicios;Servicio de valorización (tasación) comercial de 221 inmuebles propios del Banco de la Nación;99;180,000;Soles;Recursos Propios;Abril;Logistica;
+66;AS;Servicios;Servicio de valorización (tasación) comercial de 83 inmuebles adjudicados del Banco de la Nación;99;55,000;Soles;Recursos Propios;Agosto;Logistica;
+67;CPC;Bienes;Adquisicion de utiles de escritorio;99;1,100,000;Soles;Recursos Propios;Marzo;Logistica;Convenio Marco, Items: 46
+68;CPC;Bienes;Adquisicion de papel bond;99;600,000;Soles;Recursos Propios;Marzo;Logistica;Convenio Marco
+69;CP;Servicios;Servicio de recepción, control y mensajería a nivel local;99;1,609,920;Soles;Recursos Propios;Junio;Logistica;
+70;CP;Servicios;Servicio de recojo de sobres de las Agencias de Lima Metropolitana y Callao;99;1,920,000;Soles;Recursos Propios;Junio;Logistica;
+71;CP;Servicios;Servicio de habilitación y traslado de extractos bancarios;99;804,000;Soles;Recursos Propios;Marzo;Logistica;
+72;LP;Bienes;Adquisición e instalación de grupos electrógenos y tableros de trasnferencia para las Macro Regiones de Lima y Provincias. ;99;12,984,000;Soles;Recursos Propios;Abril;Logistica;Items: 6
+73;LP;Bienes;Adquisición e instalación de equipos de aire acondicionado para las Macro Regiones de Lima y Provincias. ;99;2,250,000;Soles;Recursos Propios;Abril;Logistica;Items: 4
+74;CP;Servicios;Servicio de Monitoreo de agentes ocupacionales (Físicos, Químicos, Biológicos, y Factores de Riesgo Disergonómicos) en las sedes del Banco de la Nación a Nivel Nacional;99;2,242,000;Soles;Recursos Propios;Marzo;Logistica;
+75;CP;Servicios;Alquiler de la Ag. 2 CC Mall del Sur;99;2,746,440;Soles;Recursos Propios;Marzo;Logistica;
+76;AS;Bienes;Adquisicion e instalacion de mobiliario de la Ag. 2 CC Mall del Sur;99;157,500;Soles;Recursos Propios;Abril;Logistica;
+77;CP;Servicios;Alquiler de la Ag. 2 CC Gamarra Modas;99;1,806,156;Soles;Recursos Propios;Marzo;Logistica;
+78;AS;Bienes;Adquisicion e instalacion de mobiliario de la Ag. 2 CC Gamarra Modas;99;178,000;Soles;Recursos Propios;Abril;Logistica;
+79;CP;Servicios;Alquiler de la Ag. 2 CC Huancayo;99;1,808,136;Soles;Recursos Propios;Marzo;Logistica;
+80;AS;Bienes;Adquisicion e instalacion de mobiliario de la Ag. 2 CC Huancayo;99;178,000;Soles;Recursos Propios;Abril;Logistica;
+81;CP;Servicios;Alquiler de la Ag. 2 Los Olivos;99;446,040;Soles;Recursos Propios;Marzo;Logistica;
+82;AS;Obras;Contratacion de la Ejecucion de Obra Ag. 2 Los Olivos;99;120,000;Soles;Recursos Propios;Noviembre;Logistica;
+84;CP;Servicios;Alquiler de la Ag. 2 Chama II;99;896,400;Soles;Recursos Propios;Marzo;Logistica;
+85;CP;Servicios;Servicio de Acondicionamiento de la Ag. 2 Chama II;99;544,800;Soles;Recursos Propios;Mayo;Logistica;
+87;CP;Servicios;Servicio de Acondicionamiento de la Ag. 3 Requena;99;403,661;Soles;Recursos Propios;Junio;Logistica;
+89;AS;Obras;Contratacion de la Ejecucion de Obra Ag. 3 La Quebrada;99;678,653;Soles;Recursos Propios;Agosto;Logistica;
+91;AS;Servicios;Servicio de Acondicionamiento de la Ag. 3 Caballococha;99;368,281;Soles;Recursos Propios;Mayo;Logistica;
+92;AS;Servicios;Servicio de Acondicionamiento de la Ag. 2 San Juan de Lurigancho;99;89,318;Soles;Recursos Propios;Junio;Logistica;
+94;AS;Obras;Contratacion de la Ejecucion de Obra Ag. 3 Mala;99;1,298,432;Soles;Recursos Propios;Mayo;Logistica;
+95;AS;Consultoria de Obras;Contratacion de la Supervision de Obra Ag. 3 Mala;99;120,000;Soles;Recursos Propios;Mayo;Logistica;
+96;LP;Obras;Contratacion de la Ejecucion de Obra Ag. La Molina;99;5,397,000;Soles;Recursos Propios;Julio;Logistica;
+97;CP;Consultoria de Obras;Contratacion de la Supervision de Obra Ag. La Molina;99;442,072;Soles;Recursos Propios;Julio;Logistica;
+99;AS;Consultoria de Obras;Contratacion de la Supervision de Obra Ag. 3 Iberia;99;120,000;Soles;Recursos Propios;Marzo;Logistica;
+100;LP;Obras;Contratacion de la Ejecucion de Obra Ag 2. Cayma;99;3,189,900;Soles;Recursos Propios;Abril ;Logistica;
+101;AS;Consultoria de Obras;Contratacion de la Supervision de Obra Ag 2. Cayma;99;320,000;Soles;Recursos Propios;Abril;Logistica;
+102;CP;Consultoria de Obras;Contratacion de la Supervision de Obra Ag. I Piura;99;1,150,000;Soles;Recursos Propios;Marzo;Logistica;
+104;AS;Consultoria de Obras;Contratacion de la Supervision de Obra Ag. 3 Mazuko;99;65,000;Soles;Recursos Propios;Marzo;Logistica;
+105;LP;Obras;Contratacion de la Ejecucion de Obra Ag. I Piura;99;11,530,700;Soles;Recursos Propios;Marzo;Logistica;
+106;CP;Servicios;Servicio de vigilancia privada para las agencias de la Subgerencia Macro Region Lima y Sedes Administrativas del Banco de la Nacion y operadores del centro de control de seguridad;99;30,307,498;Soles;Recursos Propios;Abril;Logistica;
+107;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Amazonas de la Subgerencia Macro Región I-Piura;99;2,101,598;Soles;Recursos Propios;Marzo;Logistica;
+108;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Ancash de la Subgerencia Macro Región II-Trujillo y subgerencia Macro Región III-Huancayo;99;5,155,199;Soles;Recursos Propios;Marzo;Logistica;
+109;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Apurimac de la Subgerencia Macro Región IV-Cusco;99;1,835,735;Soles;Recursos Propios;Marzo;Logistica;
+110;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Arequipa de la Subgerencia Macro Región V-Arequipa;99;3,890,887;Soles;Recursos Propios;Junio;Logistica;
+111;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Ayacucho de la Subgerencia Macro Región V-Arequipa y Subgerencia Macro Región IV - Cusco;99;3,318,387;Soles;Recursos Propios;Julio;Logistica;
+112;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Cajamarca de la Subgerencia Macro Región II-Trujillo y subgerencia Macro Región I-Piura;99;7,969,152;Soles;Recursos Propios;Julio;Logistica;
+113;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Cusco de la Subgerencia Macro Región IV-Cusco;99;3,519,670;Soles;Recursos Propios;Marzo;Logistica;
+114;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Huancavelica de la Subgerencia Macro Región III-Huancayo, Subgerencia Macro Región IV-Cusco y Subgerencia Macro Región V - Arequipa.;99;2,167,626;Soles;Recursos Propios;Marzo;Logistica;
+115;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Huanuco de la Subgerencia Macro Región II-Trujillo y Subgerencia Macro Región III-Huancayo ;99;2,344,587;Soles;Recursos Propios;Marzo;Logistica;
+116;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Ica de la Subgerencia Macro Región V-Arequipa;99;1,286,331;Soles;Recursos Propios;Junio;Logistica;
+117;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Junin de la subgerencia Macro Región III-Huancayo;99;3,159,408;Soles;Recursos Propios;Marzo;Logistica;
+118;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de la Libertad de la Subgerencia Macro Región II-Trujillo;99;4,747,401;Soles;Recursos Propios;Marzo;Logistica;
+119;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de la Lambayeque de la Subgerencia Macro Región II-Trujillo;99;3,975,353;Soles;Recursos Propios;Marzo;Logistica;
+120;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Loreto de la Subgerencia Macro Región I-Piura y Subgerencia Macro Región III-Huancayo;99;2,173,863;Soles;Recursos Propios;Marzo;Logistica;
+121;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Madre de Dios de la Subgerencia Macro Región IV-Cusco;99;1,056,031;Soles;Recursos Propios;Marzo;Logistica;
+122;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Moquegua de la Subgerencia Macro Región V-Arequipa;99;1,306,052;Soles;Recursos Propios;Marzo;Logistica;
+123;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Pasco de la Subgerencia Macro Región III-Huancayo;99;1,837,371;Soles;Recursos Propios;Marzo;Logistica;
+124;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Piura de la Subgerencia Macro Región I-Piura;99;5,311,002;Soles;Recursos Propios;Marzo;Logistica;
+125;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Puno de la Subgerencia Macro Región IV-Cusco;99;3,805,230;Soles;Recursos Propios;Marzo;Logistica;
+126;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de San Martin de la Subgerencia Macro Región I-Piura y Subgerencia Macro Región III-Huancayo;99;2,879,668;Soles;Recursos Propios;Marzo;Logistica;
+127;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Tacna de la Subgerencia Macro Región V-Arequipa;99;1,795,384;Soles;Recursos Propios;Marzo;Logistica;
+128;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Tumbes de la Subgerencia Macro Región I-Piura;99;1,056,032;Soles;Recursos Propios;Marzo;Logistica;
+129;CP;Servicios;Servicio de vigilancia privada para la red de agencias del departamento de Ucayali de la Subgerencia Macro Región III-Huancayo;99;1,305,729;Soles;Recursos Propios;Junio;Logistica;
+130;AS;servicios;Servicio de Asesoría en temas Tributarios al Banco de la Nación;99;368,000;Soles;Recursos Propios;Marzo;Logistica;
+131;CP;Servicios;Servicio de mantenimiento y soporte del sistema de comercio exterior;99;646,000;Soles;Recursos Propios;Marzo;Logistica;
+132;AS;Bienes;Adquisicion de cajeros automaticos ATMs y sistemas de video grabacion digital SVGD;99;22,749,100;Soles;Recursos Propios;Marzo;Logistica;Desierto LP-SM-3-2018-BN-1
+133;AS;Servicios;Servicio de monitoreo de alertas 7x24 y atención de fraudes;99;3,640,861;Soles;Recursos Propios;Marzo;Logistica;Desierto CP-SM-16-2018-BN-1
+134;CP;Servicios;Servicio de Limpieza General para las agencias, lobbies y cajeros del departamento de Piura y Tumbes del Banco de Nación;99;3,778,605;Soles;Recursos Propios;Marzo;Logistica;
+135;AS;Servicios;Servicio Línea Ética del Banco de la Nación;99;269,500;Soles;Recursos Propios;Marzo;Logistica;
+136;AS;Servicios;Servicio Soporte Técnico y Mantenimiento para Imresoras de Alto Desempeño de los Centros  de Computo del Banco de la NAción;99;122,829;Soles;Recursos Propios;Marzo;Logistica;
+137;AS;Servicios;Servicio de Asesoría Legal Externa (ALE) y Patrocinio Procesal (PP), para las Dependencias de la Subgerencia Macro Región III Sede Huancayo;99;716,400;Soles;Recursos Propios;Marzo;Logistica;Desierto CP-SM-28-2017-BN-1, Items: 6
+138;AS;Servicios;Servicio para la elaboración del Programa de Control de Documentos Administrativos del Banco de la Nación;99;95,000;Soles;Recursos Propios;Marzo;Logistica;
+139;CP;Servicios;Servicio de mantenimiento preventivo y correctivo de los Servicios Generales de las agencias y lobbies de la Subgerencia Macro Región Lima del Banco de la Nación;99;17,410,765;Soles;Recursos Propios;Marzo;Logistica;Items: 2
+140;CP;Servicios;Servicio de patrocinio procesal en derecho laboral y previsional en Lima y Callao;99;1,865,000;Soles;Recursos Propios;Marzo;Logistica;Items: 3
+141;AS;Servicios;Servicio de Asesoría Legal Externa (ALE) y Patrocinio Procesal (PP) para la Agencia Puerto Maldonado y sus dependencias de la Subgerencia Macro Región IV Sede Cusco;99;79,200;Soles;Recursos Propios;Marzo;Logistica;
+142;CP;Servicios;Servicio de Asesoría Legal Externa (ALE) y Patrocinio Procesal (PP) para las dependencias de la Subgerencia Macro Region V Sede Arequipa;99;507,600;Soles;Recursos Propios;Marzo;Logistica;Nulidad CP-SM-27-2017-BN-1, Items: 4
+143;LP;Bienes;Adquisición de switches Lan para Red de Agencias del Banco de la Nación;99;3,803,961;Soles;Recursos Propios;Abril;Logistica;
+144;AS;Bienes;Adquisición de Licencias e Implementación de contingencia para software de Seguridad y control de Cambios para Cajeros Automaticos DIEBOLD;99;300,678;Soles;Recursos Propios;Abril;Logistica;
+145;AS;Bienes;Adquisición de Equipos UPS para las Oficinas del Banco de la Nación a Nivel Naciónal Item 1, 2 y 3;99;6,060,097;Soles;Recursos Propios;Abril;Logistica;Desierto LP-SM-10-2017-BN-1, Items: 3
+146;CPC;Bienes;Adquisicion de consumibles para impresoras;99;1,600,000;Soles;Recursos Propios;Abril;Logistica;Convenio Marco, Items: 16
+147;AS;Servicios;Servicio de atención de tópico para Oficinas Administrativas del Banco de la Nación;99;279,600;Soles;Recursos Propios;Marzo;Logistica;Desierto AS-SM-43-2018-BN-2
+148;CP;Servicios;Licenciamiento por uso de software de administración de Base de Datos y Gestión Z/OS;99;20,000,000;Soles;Recursos Propios;Marzo;Logistica;
+149;AS;Servicios;Servicio de Asesoría Legal Externa (ALE) y Patrocinio Procesal (PP) para las Dependencias de la Subgerencia Macro Región IV Sede Cusco;99;812,400;Soles;Recursos Propios;Marzo;Logistica;Desierto CP-SM-41-2017-BN-1, Items: 6
+150;AS;Servicios;Servicio de Asesoría Legal Externa (ALE) y Patrocinio Procesal (PP) para las Dependencias de la Subgerencia Macro Región Lima;99;108,000;Soles;Recursos Propios;Marzo;Logistica;Desierto CP-SM-39-2017-BN-1
+151;AS;Servicios;Servicio de arrendamiento de un inmueble (espacio) para el funcionamiento de un (01) cajero automatico Multired en distrito de San Miguel, provincia y departamento Lima;99;191,160;Soles;Recursos Propios;Junio;Logística;
+152;AS;Servicios;Servicio de arrendamiento de un inmueble para el funcionamiento de la Agencia 3 Carhuaz;99;54,000;Soles;Recursos Propios;Mayo;Logística;"Desierto 
+AS-SM-66-2018-BN-1"
+153;AS;Servicios;Servicio de arrendamiento de inmueble (espacio) para la vivienda del Subgerente Macro Region I Piura;99;67,200;Soles;Recursos Propios;Mayo;Logística;
+154;AS;Servicios;Servicio de implementacion de sobre techo con un solo declive para prevenir filtraciones de aguas pluviales en la Agencia 2 Tumbes - Dpto. Tumbes;99;116,493;Soles;Recursos Propios;Junio;Logística;
+155;CP;Servicios;Servicio de adecuacion del Sistema de Seguridad SIX/WEB LBTR;99;526,965;Soles;Recursos Propios;Junio;Logística;
+156;CP;Servicios;Renovacion de licencias y soporte para solucion antivirus y antispam McAfee;99;684,141;Soles;Recursos Propios;Junio;Logística;
+157;AS;Servicios;Servicio de mantenimiento preventivo y atención de emergencias de los ascensores del edificio Sede Principal del Banco de la Nacion;99;243,555;Soles;Recursos Propios;Junio;Logística;
+158;AS;Servicios;Servicio de arrendamiento para funcionamiento de la Agencia 3 Tambogrande - MR I Piura;99;234,000;Soles;Recursos Propios;Mayo;Logística;"Desierto 
+AS-SM-39-2018-BN-3"
+159;AS;Bienes;Compra e Instalacion de 01 grupo electrogeno de 60 Kw con su tablero de transferencia automatica para la Agencia 1 Republica de Panama;99;126,820;Soles;Recursos Propios;Junio;Logística;
+160;CP;Servicios;Servicio de mantenimiento preventivo y correctivo del Sistema de almacenamiento High End;99;4,150,000;Soles;Recursos Propios;Junio;Logística;
+161;AS;Servicios;Servicio de mantenimiento preventivo, soporte tecnico y atencion por emergencia para los grupos electrogenos de la Nueva Sede Institucional del Banco de la Nacion – San Borja;99;235,538;Soles;Recursos Propios;Junio;Logística;
+162;CP;Servicios;Servicio de acondicionamiento de inmueble para Agencia 3 del Banco de la Nacion en Pueblo Nuevo - Chincha;99;438,291;Soles;Recursos Propios;Junio;Logística;
+163;LP;Bienes;Adquisicion de utiles de aseo personal;99;416,520;Soles;Recursos Propios;Junio;Logística;
+164;LP;Obras;Ejecucion de obra: demolicion y construccion de la Agencia 3 Iberia, Madre de Dios;99;2,261,955;Soles;Recursos Propios;Mayo;Logística;
+165;AS;Servicios;Servicio de Acondicionamiento de  Fachada de Agencia 1 Miraflores del Banco de la Nación;99;155,608;Soles;Recursos Propios;Mayo;Logística;
+166;AS;Servicios;Servicio de arrendamiento de un inmueble para el funcionamiento de la Agencia 2 Chulucanas;99;331,200;Soles;Recursos Propios;Mayo;Logística;
